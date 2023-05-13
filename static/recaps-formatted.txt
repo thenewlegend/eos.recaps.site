@@ -1,0 +1,20 @@
+------------- JSON REFERENCES -------------
+
+            Date format : 2023-05-15
+
+
+            ------- SNIPPET OBJECT REFERENCE -------
+
+                    {
+                        "heading" : "",
+                        "link" : "",
+                        "content" : ""
+                    }
+
+
+-------------------------------------------
+
+
+
+
+
