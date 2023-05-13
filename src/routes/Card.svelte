@@ -71,7 +71,12 @@
   
   <style>
     * :global(.card-media-16x9) {
-      background-image: url(https://placehold.co/320x180?text=16x9);
+      background-image: url(https://placehold.co/320x180?text=Recaps);
+    }
+
+    .card-display{
+      height: 500px;
+        aspect-ratio: 0.75;
+        width: auto;
     }
   </style>
-  

@@ -12,6 +12,4 @@
 
 <span>Publishes <Time relative timestamp="2023-05-15" /></span>
 
-<Card />
-
-<br>
+    <Card />
