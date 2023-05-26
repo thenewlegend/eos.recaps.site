@@ -1,0 +1,18 @@
+[
+	{
+		"publishedOn": "2023-05-01",
+		"week": 1,
+		"snippets": [
+			{
+				"heading": "EOSEVM Open Sourced - 27 Apr 2023 ",
+				"link": "https://t.me/EOSNetworkFoundation/213660",
+				"content": "<ul><li>The #EOS EVM source code has officially been open sourced!</li><li>This is an important milestone for the EVM, keeping with the #ENF's core values of open collaboration and transparency</li><li>EOS EVM GitHub: <a href='https://github.com/eosnetworkfoundation/eos-evm'>https://github.com/eosnetworkfoundation/eos-evm</a></li></ul>"
+			},
+			{
+				"heading": "EOSEVM - 'no bugs'",
+				"link": "https://t.me/EOSNetworkFoundation/213439",
+				"content": "<ul><li>'We've audited so many EVMs in our time & this the first EVM we've ever audited where we've found no bugs' - Charles Holtzkampf of Sentnl.io</li><li>The #EOS EVM is so robust that even the number one bug bounty hunter on Ethereum couldn't find any vulnerabilities</li></ul>"
+			}
+		]
+	}
+]

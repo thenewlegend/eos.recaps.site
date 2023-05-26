@@ -1,0 +1,339 @@
+[
+	{
+		"publishedOn": "2023-05-01",
+		"week": 1,
+		"snippets": [
+			{
+				"heading": "EOSEVM Open Sourced - 27 Apr 2023 ",
+				"link": "https://t.me/EOSNetworkFoundation/213660",
+				"content": "<ul><li>The #EOS EVM source code has officially been open sourced!</li><li>This is an important milestone for the EVM, keeping with the #ENF's core values of open collaboration and transparency</li><li>EOS EVM GitHub: <a href='https://github.com/eosnetworkfoundation/eos-evm'>https://github.com/eosnetworkfoundation/eos-evm</a></li></ul>"
+			},
+			{
+				"heading": "EOSEVM - 'no bugs'",
+				"link": "https://t.me/EOSNetworkFoundation/213439",
+				"content": "<ul><li>'We've audited so many EVMs in our time & this the first EVM we've ever audited where we've found no bugs' - Charles Holtzkampf of Sentnl.io</li><li>The #EOS EVM is so robust that even the number one bug bounty hunter on Ethereum couldn't find any vulnerabilities</li></ul>"
+			},
+			{
+				"heading": "EOS_Fireside_Chat_Clips",
+				"link": "https://www.youtube.com/watch?v=M_zZXOFKMww",
+				"content": "<ul><li>Clips from Fireside chat</li></ul>"
+			},
+			{
+				"heading": "IBC & #EVM",
+				"link": "https://discord.com/channels/892385699616153600/900425525330321488/1101223179223056466",
+				"content": "<ul><li>The most notable impact of open sourcing the $EOS EVM is enabling all @AntelopeIO chains to also launch their own EVM as well.</li><li>With the recent release of IBC, this is important to ensuring cross chain compatibility & feature parity.</li><li>More on IBC: <a href='https://eosnetwork.com/ibc-using-eos/'>https://eosnetwork.com/ibc-using-eos/</a></li></ul>"
+			},
+			{
+				"heading": "EOS_Contact",
+				"link": "https://t.me/EOSNetworkFoundation/213679",
+				"content": "<ul><li>I believe it would be the best to contact ENF in terms of these type of topics through their contact form that is available on their webpage: <a href='https://eosnetwork.com/contact/'>https://eosnetwork.com/contact/</a></li></ul>"
+			},
+			{
+				"heading": "Hackathon Upland - Registration still open!",
+				"link": "https://t.me/EOSNetworkFoundation/213764",
+				"content": "<ul><li>'The contest ultimately ending at Upland's Genesis Week celebration in Las Vegas on June 9.</li><li>Registration deadline on May 12 and submission deadline on May 26.</li><li>After the finalists are selected for all three tracks, they will deliver a presentation to judges and players in Las Vegas on June 9.' - <a href='https://www.upland.me/events/hackathon-your-way-to-10k-and-2-million-upx'>https://www.upland.me/events/hackathon-your-way-to-10k-and-2-million-upx</a></li></ul>"
+			},
+			{
+				"heading": "EOSEVM miner.enf",
+				"link": "https://t.me/EOSNetworkFoundation/213440",
+				"content": "<ul><li>The miner.enf is the CPU cost for mining the transaction as the RPC provider and the eosio.evm table balance is the gas revenue from the EVM transactions that is being set aside for a future burn.</li><li>The other accounts in the table are from end users who opened balances to hold dust due to the the differences in token precision between EVM and native.</li><li><a href='https://eosnetwork.com/blog/eos-evm-tokenomics-deep-dive/'>https://eosnetwork.com/blog/eos-evm-tokenomics-deep-dive/</a></li></ul>"
+			},
+			{
+				"heading": "EOS_Name_Serv",
+				"link": "https://t.me/EOSNetworkFoundation/213322",
+				"content": "<ul><li>EOS Native - <a href='https://eosnameservice.io/'>https://eosnameservice.io/</a></li><li>EOS EVM - <a href='https://github.com/eosnetworkfoundation/grant-framework/blob/main/applications/EVMNS.md'>https://github.com/eosnetworkfoundation/grant-framework/blob/main/applications/EVMNS.md</a></li></ul>"
+			},
+			{
+				"heading": "Leap_4 Released - 25 Apr 2023",
+				"link": "https://t.me/EOSNetworkFoundation/213460 ",
+				"content": "<ul><li>Today, ENF is excited announce the release of Antelope Leap v4.0.0 🦌</li><li>This enables features such as:</li><li>🏎 Higher Performance w/Multi-Threading</li><li>📊 Reduced Latency & Faster Block Propagation</li><li>🔎 More Control & Visibility Around State & History Data-</li><li><a href='https://eosnetwork.com/blog/antelope-leap-4-released'>https://eosnetwork.com/blog/antelope-leap-4-released</a></li></ul>"
+			},
+			{
+				"heading": "EOS_Testnet faucet",
+				"link": "https://t.me/EOSNetworkFoundation/213544",
+				"content": "<ul><li>EOS Testnet Faucet: faucet.testnet.evm.eosnetwork.com (<a href='http://faucet.testnet.evm.eosnetwork.com/'>http://faucet.testnet.evm.eosnetwork.com/</a>)</li><li>Please consider joining the Developer Group to stay updated.: <a href='https://t.me/eosevm'>https://t.me/eosevm</a></li></ul>"
+			},
+			{
+				"heading": "Consensus2023 Highlights",
+				"link": "https://t.me/EOSNetworkFoundation/214433",
+				"content": "<ul><li>The ENF & EOS community attended Consensus 2023 last week to spread the word about #TheNewEOS</li><li>📺 Watch Highlights Video: - You Tube -6m- : <a href='https://youtu.be/TcBqlRCpcZo'>https://youtu.be/TcBqlRCpcZo</a></li></ul>"
+			},
+			{
+				"heading": "Upland detailed",
+				"link": "https://t.me/EOSNetworkFoundation/214052",
+				"content": "<ul><li>Upland Co-Founder, Idan Zuckerman, goes into detail in a recent interview with the ENF's Communications team, Zack Gall & Brandon Lovejoy 🎙</li><li>✨ Highlight - <a href='https://youtube.com/shorts/7eQfPEoDH-Y'>https://youtube.com/shorts/7eQfPEoDH-Y</a></li><li>📺 Full Episode - <a href='https://youtu.be/aBLnLMkqzZk'>https://youtu.be/aBLnLMkqzZk</a></li></ul>"
+			},
+			{
+				"heading": "BBS decentralized social media",
+				"link": "https://t.me/EOSNetworkFoundation/214512",
+				"content": "<ul><li>During #Consensus2023 the #ENF was able to connect with Eyal Hertzog, co-founder of Bancor and founder of BBS Network 🌐</li><li>BBS is revolutionizing social media with their decentralized messaging platform. - You Tube -6m- : 📺 <a href='https://youtu.be/P7lS9M7B1GA'>https://youtu.be/P7lS9M7B1GA</a> 📺</li></ul>"
+			},
+			{
+				"heading": "EOS_Fireside_Chat_Clips - Hong Kong & Web 3",
+				"link": "https://t.me/EOSNetworkFoundation/213979",
+				"content": "<ul><li>Recently on the EOS Fireside Chat, ENF CEO, Yves La Rose, provided insight into the growing blockchain industry in Hong Kong and the opportunities this presents for EOS</li><li>🔥 Watch Highlight: <a href='https://youtu.be/9aNJlhBL4Bs'>https://youtu.be/9aNJlhBL4Bs</a></li></ul>"
+			},
+			{
+				"heading": "EOS_Fireside_Chat - 03 May 2023",
+				"link": "https://t.me/EOSNetworkFoundation/214211",
+				"content": "<ul><li>'Every Wednesday 19:00 UTC : 'On the agenda:</li><li>🎉 Consensus 2023 Recap</li><li>🌐 EOS EVM Open Sourced</li><li>🏗 Bart Wyatt Featured on Architects of Consensus</li><li>🚀 ZEOS Updates & Developments</li><li>📰 Cointelegraph Magazine Feature: EOS' Grassroots Comeback</li><li>📊 ENF Quarterly Report</li><li>🎤 Community Open Mic</li><li>💬 Off-Topic Banter - Special guests:</li><li>🤓 Bart Wyatt, ENF CTO</li><li>🤝 Yves La Rose, ENF Founder & CEO</li><li>❤️ EOS Community (you!)' - You Tube -2hr21m- : <a href='https://www.youtube.com/live/zquQssJQWy4?feature=share'>https://www.youtube.com/live/zquQssJQWy4?feature=share</a></li></ul>"
+			},
+			{
+				"heading": "Giveaway_Show - 04 May 2023",
+				"link": "https://t.me/EOSNetworkFoundation/214262",
+				"content": "<ul><li>Thursdays 17:00 UTC Livestream with chat :</li><li>✅ EOS Network Foundation Q1 Report</li><li>✅ EOS EVM adoption grows!</li><li>💰 50 EOS + NFT - You Tube -1hr14m- : <a href='https://www.youtube.com/live/2Lt_b1it5D8?feature=share&t=440'>https://www.youtube.com/live/2Lt_b1it5D8?feature=share&t=440</a>'</li></ul>"
+			},
+			{
+				"heading": "Crypto_Apologist - 05 May 2023",
+				"link": "https://t.me/EOSNetworkFoundation/214321",
+				"content": "<ul><li>'EOS Breaking the Limits of Blockchain Antelope Networks Elastic Sidechains Explained - Blockchain technology is pretty cool, but one major problem has been holding it back: scalability.</li><li>Antelope Networks has the solution: elastic sidechains! ... '  - You Tube - 6m- : <a href='https://youtu.be/fTZ4F2qNBVU'>https://youtu.be/fTZ4F2qNBVU</a></li></ul>"
+			},
+			{
+				"heading": "Hot_Sauce - 05 May 2023",
+				"link": "https://t.me/EOSNetworkFoundation/214393",
+				"content": "<ul><li>Fridays 16:00 UTC :</li><li>🌶Hot Sauce 198🌶 -</li><li>✅EOS EVM is Open Sourced</li><li>✅Consensus 2023 Recap</li><li>✅Bart Wyatt is Featured on Architects of Consensus</li><li>✅EOS EVM Webinar by Zaisan</li><li>✅Wombat X Accelerator</li><li>✅ZEOS Updates & Developments</li><li>✅Cointelegraph Magazine Feature: EOS' Grassroots Comeback</li><li>✅ENF Quarterly Report📊' - You Tube -21m- : 📺 <a href='https://www.youtube.com/live/2Lt_b1it5D8?feature=share&t=493'>https://www.youtube.com/live/2Lt_b1it5D8?feature=share&t=493</a> 📺'</li></ul>"
+			}
+		]
+	},
+
+	{
+		"publishedOn": "2023-05-10",
+		"week": 2,
+		"snippets": [
+			{
+				"heading": "EOS_EVM Webinar 18 May 2023",
+				"link": "https://t.me/EOSNetworkFoundation/214578",
+				"content": "<ul><li>Sign up for the upcoming EOS EVM Webinar.</li><li>Don't miss to learn from expert panelists:</li><li>👉 Nathan James</li><li>👉 Matias Romeo</li><li>👉 Adam Bouktila - Register: <a href='https://zaisan.webinargeek.com/supercharge-ethereum-dapps-eos-evm'>https://zaisan.webinargeek.com/supercharge-ethereum-dapps-eos-evm</a></li></ul>"
+			},
+			{
+				"heading": "EVM_Contracts - Question : 01 May 2023",
+				"link": "https://t.me/EOSNetworkFoundation/214000",
+				"content": "<ul><li>Can EVM contracts assign key permission to the protocol? Essentially burning the private keys and ensuring no developer rug pull or similar shenanigans are possible?</li><li>Response start: <a href='https://t.me/EOSNetworkFoundation/214011'>https://t.me/EOSNetworkFoundation/214011</a> - EVM contracts have the key essentially burned by default. Unless ...</li></ul>"
+			},
+			{
+				"heading": "USDT_EOS : 01 May 2023",
+				"link": "https://t.me/EOSNetworkFoundation/213865",
+				"content": "<ul><li>At the moment we are manually issuing refunds for tokens like USDT sent to the eosio.evm contract, but this is a known issue and a more long term solution is in the works. - <a href='https://github.com/eosnetworkfoundation/eos-evm/issues/504'>https://github.com/eosnetworkfoundation/eos-evm/issues/504</a></li><li><a href='https://t.me/EOSNetworkFoundation/214033'>https://t.me/EOSNetworkFoundation/214033</a> : All incoming USDT (eos) to the bridge account are logged and ...</li></ul>"
+			},
+			{
+				"heading": "EOS_Support - \"I got an issue!\"",
+				"link": "https://t.me/EOSNetworkFoundation/214027",
+				"content": "<ul><li>If you need help and/or a trusted guide to help you step by step, make sure you visit <a href='http://EOSsupport.io'>http://EOSsupport.io</a> domain (1.) and write us in the direct chat (2. and 3.) on the website. Do NOT reply to direct messages on social media or visit any URL other than <a href='http://eossupport.io/'>http://eossupport.io/</a>!</li></ul>"
+			},
+			{
+				"heading": "IBC AntelopeIO-based blockchains",
+				"link": "https://t.me/EOSNetworkFoundation/214215",
+				"content": "<ul><li>📢 The latest detailed article on the Inter-Blockchain Communication feature (<a href='https://medium.com/object-computing/inter-blockchain-communication-using-antelope-io-9f142fc2fba7'>https://medium.com/object-computing/inter-blockchain-communication-using-antelope-io-9f142fc2fba7</a>) on AntelopeIO-based blockchains has been released!</li><li>💡 The article covers all the essential aspects of IBC technology including how IBC ...</li></ul>"
+			},
+			{
+				"heading": "IBC_IF Inter-Blockchain Communication & Instant Finality",
+				"link": "https://t.me/EOSNetworkFoundation/214331",
+				"content": "<ul><li>Brandon Lovejoy and Jonaed Iqbal sit down with Areg Hayrapetian, Matt Witherspoon and Guillaume Babin-Tremblay.</li><li>Topic: functionality of IBC and IF, ...</li><li>You Tube -2hr21m- : <a href='https://youtu.be/yGMBFHubZm4'>https://youtu.be/yGMBFHubZm4</a></li></ul>"
+			},
+			{
+				"heading": "Antelope_Coalition meeting - 04 May 2023",
+				"link": "https://t.me/EOSNetworkFoundation/214567",
+				"content": "<ul><li>Antelope Coalition stakeholders dive into various aspects of Antelope development, focusing on P2P milestones, documentation improvements, issues with snapshot file extraction, and potential solutions.</li><li>”-You Tube -33m- : <a href='https://youtu.be/lvljpjJFZwc'>https://youtu.be/lvljpjJFZwc</a></li></ul>"
+			},
+			{
+				"heading": "ENF_Report - Quarter 1 - 03 May 2023",
+				"link": "https://t.me/EOSNetworkFoundation/214040",
+				"content": "<ul><li>The ENF Q1 report was just released 📣 Check it out to get up to speed on the biggest milestones from the first quarter of 2023, including:</li><li>🚀 EOS EVM Launch</li><li>🤝 Notable Partnerships</li><li>📆 Event Presence</li><li>⚙️ Technical Development</li><li>📰 Media Coverage + More.</li><li>- Read Now: <a href='https://eosnetwork.com/blog/enf-q1-2023-quarterly-report'>https://eosnetwork.com/blog/enf-q1-2023-quarterly-report</a></li></ul>"
+			},
+			{
+				"heading": "ENF sites",
+				"link": "https://t.me/EOSNetworkFoundation/214435",
+				"content": "<ul><li>Officially supported channels, and few unoffical. - <a href='https://t.me/EOSNetworkFoundation/212238'>https://t.me/EOSNetworkFoundation/212238</a></li></ul>"
+			},
+			{
+				"heading": "EOS_Synergy Monthly Report April",
+				"link": "https://t.me/EOSNetworkFoundation/214632",
+				"content": "<ul><li>The report 🔖 for April 2023 is accessible by clicking the following link:</li><li>✅ <a href='http://help.eossupport.io/en/articles/7173178'>http://help.eossupport.io/en/articles/7173178</a></li><li>If any question comes up, contact the EOS Support Chat at <a href='http://eossupport.io'>http://eossupport.io</a>.</li></ul>"
+			},
+			{
+				"heading": "Consensus2023 - Future Gaming Panel",
+				"link": "https://t.me/EOSNetworkFoundation/214130",
+				"content": "<ul><li>The EOS Network Foundation, Blockchain Game Alliance, Upland and Telos hosted almost 100 attendees to kick-off Consensus at ...</li><li>- You Tube -25m- : <a href='https://youtu.be/teXfotQ9TP4'>https://youtu.be/teXfotQ9TP4</a></li></ul>"
+			},
+			{
+				"heading": "Consensus2023 Highlights",
+				"link": "https://t.me/EOSNetworkFoundation/214433",
+				"content": "<ul><li>The ENF & EOS community attended Consensus 2023 last week to spread the word about #TheNewEOS 📺 Watch Highlights Video: - You Tube -6m- : <a href='https://youtu.be/TcBqlRCpcZo'>https://youtu.be/TcBqlRCpcZo</a></li></ul>"
+			},
+			{
+				"heading": "Upland detailed",
+				"link": "https://t.me/EOSNetworkFoundation/214052",
+				"content": "<ul><li>Upland Co-Founder, Idan Zuckerman, goes into detail in a recent interview with the ENF's Communications team, Zack Gall & Brandon Lovejoy 🎙</li><li>✨ Highlight - <a href='https://youtube.com/shorts/7eQfPEoDH-Y'>https://youtube.com/shorts/7eQfPEoDH-Y</a></li><li>📺 Full Episode - <a href='https://youtu.be/aBLnLMkqzZk'>https://youtu.be/aBLnLMkqzZk</a></li></ul>"
+			},
+			{
+				"heading": "BBS decentralized social media",
+				"link": "https://t.me/EOSNetworkFoundation/214512",
+				"content": "<ul><li>During #Consensus2023 the #ENF was able to connect with Eyal Hertzog, co-founder of Bancor and founder of BBS Network 🌐</li><li>BBS is revolutionizing social media with their decentralized messaging platform.</li><li>- You Tube -6m- : 📺 <a href='https://youtu.be/P7lS9M7B1GA'>https://youtu.be/P7lS9M7B1GA</a> 📺</li></ul>"
+			},
+			{
+				"heading": "EOS_Fireside_Chat_Clips - Hong Kong & Web 3",
+				"link": "https://t.me/EOSNetworkFoundation/213979",
+				"content": "<ul><li>Recently on the EOS Fireside Chat, ENF CEO, Yves La Rose, provided insight into the growing blockchain industry in Hong Kong and the opportunities this presents for EOS ...</li><li>🔥 Watch Highlight: <a href='https://youtu.be/9aNJlhBL4Bs'>https://youtu.be/9aNJlhBL4Bs</a></li></ul>"
+			},
+			{
+				"heading": "EOS_Fireside_Chat - 03 May 2023",
+				"link": "https://t.me/EOSNetworkFoundation/214211",
+				"content": "<ul><li>Every Wednesday 19:00 UTC</li><li>On the agenda:</li><li>🎉 Consensus 2023 Recap</li><li>🌐 EOS EVM Open Sourced</li><li>🏗 Bart Wyatt Featured on Architects of Consensus</li><li>🚀 ZEOS Updates & Developments</li><li>📰 Cointelegraph Magazine Feature: EOS' Grassroots Comeback</li><li>📊 ENF Quarterly Report</li><li>🎤 Community Open Mic</li><li>💬 Off-Topic Banter</li><li>- Special guests:</li><li>🤓 Bart Wyatt, ENF CTO</li><li>🤝 Yves La Rose, ENF Founder & CEO</li><li>❤️ EOS Community (you!)</li><li>- You Tube -2hr21m- : <a href='https://www.youtube.com/live/zquQssJQWy4?feature=share'>https://www.youtube.com/live/zquQssJQWy4?feature=share</a></li></ul>"
+			},
+			{
+				"heading": "Giveaway_Show - 04 May 2023",
+				"link": "https://t.me/EOSNetworkFoundation/214262",
+				"content": "<ul><li>Thursdays 17:00 UTC</li><li>Livestream with chat:</li><li>✅ EOS Network Foundation Q1 Report</li><li>✅ EOS EVM adoption grows!</li><li>💰 50 EOS + NFT</li><li>- You Tube -1hr14m- : <a href='https://www.youtube.com/live/2Lt_b1it5D8?feature=share&t=440'>https://www.youtube.com/live/2Lt_b1it5D8?feature=share&t=440</a></li></ul>"
+			},
+			{
+				"heading": "Crypto_Apologist - 05 May 2023",
+				"link": "https://t.me/EOSNetworkFoundation/214321",
+				"content": "<ul><li>EOS Breaking the Limits of Blockchain Antelope Networks Elastic Sidechains Explained</li><li>Blockchain technology is pretty cool, but one major problem has been holding it back: scalability.</li><li>Antelope Networks has the solution: elastic sidechains! ...</li><li>- You Tube - 6m- : <a href='https://youtu.be/fTZ4F2qNBVU'>https://youtu.be/fTZ4F2qNBVU</a></li></ul>"
+			},
+			{
+				"heading": "Hot_Sauce - 05 May 2023",
+				"link": "https://t.me/EOSNetworkFoundation/214393",
+				"content": "<ul><li>Fridays 16:00 UTC</li><li>🌶Hot Sauce 198🌶 -</li><li>✅EOS EVM is Open Sourced</li><li>✅Consensus 2023 Recap</li><li>✅Bart Wyatt is Featured on Architects of Consensus</li><li>✅EOS EVM Webinar by Zaisan</li><li>✅Wombat X Accelerator</li><li>✅ZEOS Updates & Developments</li><li>✅Cointelegraph Magazine Feature: EOS' Grassroots Comeback</li><li>✅ENF Quarterly Report📊</li><li>- You Tube -21m- : 📺 <a href='https://www.youtube.com/live/2Lt_b1it5D8?feature=share&t=493'>https://www.youtube.com/live/2Lt_b1it5D8?feature=share&t=493</a> 📺</li></ul>"
+			}
+		]
+	},
+
+	{
+		"publishedOn": "2023-05-16",
+		"week": 3,
+		"snippets": [
+			{
+				"heading": "#EOS_Monthly_report April 2023",
+				"link": "https://t.me/EOSNetworkFoundation/214861",
+				"content": "'1️⃣ EOS EVM: Audit, Open Source & Webinar 2️⃣ April Events Highlights 3️⃣ Chintai & Defibox #PoweredByEOS 4️⃣ Leap 4.0 Release 5️⃣ Greymass Progress Update 6️⃣ Pomelo Season 5 Recap 7️⃣ Hypha Launches Beta-Program Waitlist + More! Read Now - ➡️ https://eosnetwork.com/blog/everything-eos-monthly-report-april-23 ⬅️'"
+			},
+			{
+				"heading": "#Yield+ April report",
+				"link": "https://discord.com/channels/892385699616153600/901513095418097684/1106329596577718353",
+				"content": "'The team behind this project just released their latest report on the work being done and impact on the EOS ecosystem 📈 - https://twitter.com/EOSnFoundation/status/1656665363076247552?s=20'"
+			},
+			{
+				"heading": "#EOS_Node_Operator Roundtable: 10 May 2023",
+				"link": "https://t.me/EOSNetworkFoundation/215156",
+				"content": "'Uncover the mechanisms of node operations, proxy accounts, and gas fee calculations. We also tackle the challenges and opportunities of EOS EVM, the role of user experience, and the impact of gas fees on the EOS ecosystem.' - You Tube -57m- : https://youtu.be/gDPTMCOdVzc"
+			},
+			{
+				"heading": "#EOS_Node_Operator Roundtable",
+				"link": "https://t.me/EOSNetworkFoundation/215093",
+				"content": "'The EOS Node Operator Roundtable meets on Wednesdays. ✅Get updates ✅Leap 4.0.0 is here! ⚙️5.0 dream’n ⚙️proposal for development. Read the Summary: https://help.eossupport.io/en/articles/7850166-bi-monthly-node-operator-roundtable-summary-april-2023-2'"
+			},
+			{
+				"heading": "#DAOs_on_EOS Twitter Spaces 16 May 2023 at 17:00 UTC",
+				"link": "https://t.me/EOSNetworkFoundation/215186",
+				"content": "'Hangout with representatives from the ENF, Hypha, digihub, Regenerate X & .gems to discuss the growing DAO landscape on EOS & the broader Web3 space 🌐' - https://twitter.com/i/spaces/1OdJrzvgalqJX"
+			},
+			{
+				"heading": "#EOS_Fireside_Chat - 10 May 2023",
+				"link": "https://t.me/EOSNetworkFoundation/214911",
+				"content": "'Every Wednesday 19:00 UTC : On the agenda: 📰EOS CoinTelegraph Article 🔄Alcor Exchange AMM V2 🚀Wombat X Accelerator 🍈Pomelo S6 Goes Multi-Pool 🖥EOS EVM Webinar 🌳Hypha & Friends 🔒Defibox’ EOS EVM RPC node 🎙 BBS Network Interview. - You Tube -2hr26m- : https://www.youtube.com/live/So79kqrp3Nc?feature=share'"
+			},
+			{
+				"heading": "#Pomelo",
+				"link": "https://discord.com/channels/892385699616153600/901513095418097684/1107646496633016370",
+				"content": "'⏳ Have you completed the Pomelo Grants Season 5 feedback survey yet? ⏳ The Pomelo team wants to hear from you! ✳️ Complete the 2-minute survey before May 17: https://loom.ly/T_RDZs0 ✳️'"
+			},
+			{
+				"heading": "#Pomelo Season 6",
+				"link": "https://t.me/EOSNetworkFoundation/214956",
+				"content": "'Pomelo is launching multi-matching pools. Telos is coming, Specific grants, Multi-token donations etc... Season 6 going to be spicy. - https://medium.com/@PomeloGrants/breaking-ground-pomelo-grants-launches-multiple-matching-pools-b6e4ac6b2fab'"
+			},
+			{
+				"heading": "#Hot_Sauce - 12 May 2023",
+				"link": "https://t.me/EOSNetworkFoundation/215089",
+				"content": "'Fridays 16:00 UTC : 🌶Hot Sauce 199🌶 - '✅Wombat X Accelerator🎮🚀 ✅Pomelo S6 Goes Multi-Pool🌀🍈 ✅EOS EVM Webinar 📕🌐 ✅Hypha & Friends ⚛️🙌' - You Tube -23m- : 📺 https://www.youtube.com/live/2Lt_b1it5D8?feature=share&t=493 📺'"
+			},
+			{
+				"heading": "#Giveaway_Show - 11 May 2023",
+				"link": "https://t.me/EOSNetworkFoundation/214979",
+				"content": "'Thursdays 17:00 UTC Livestream with chat : ✅ DefiBox launches EOS EVM RPC Node ✅Web3 EOS Webinar! 💰 50 EOS + NFTs 💬 AMA - You Tube -1hr7m- : https://www.youtube.com/live/BFxnSaDFswQ?feature=share'"
+			}
+		]
+	},
+
+	{
+		"publishedOn": "2023-05-23",
+		"week": 4,
+		"snippets": [
+			{
+				"heading": "EOS_EVM v0.4.2 Released",
+				"link": "https://t.me/EOSNetworkFoundation/215220",
+				"content": "<ul><li>This release fixes a critical security vulnerability discovered in the EOS EVM.</li><li>We highly suggest any 3rd party implementations and/or forks of EOS EVM to upgrade immediately.</li><li><a href=\"https://github.com/eosnetworkfoundation/eos-evm/releases/tag/v0.4.2\">https://github.com/eosnetworkfoundation/eos-evm/releases/tag/v0.4.2</a></li></ul>"
+			},
+			{
+				"heading": "ENF_Marketing - #IVSCrypto in Kyoto, Japan",
+				"link": "https://t.me/EOSNetworkFoundation/215317",
+				"content": "<ul><li>Yves La Rose, ENF Founder and CEO, will be attending and speaking at this year’s #IVSCrypto, Japan’s largest global crypto conference!</li><li>The event will be held in Kyoto on 6/28-30, and ...</li><li><a href=\"https://twitter.com/BigBeardSamurai/status/1658660238566850561\">https://twitter.com/BigBeardSamurai/status/1658660238566850561</a> / <a href=\"https://ivs.events/crypto\">https://ivs.events/crypto</a></li></ul>"
+			},
+			{
+				"heading": "Blockproducer Meeting - 16 May 2023",
+				"link": "https://t.me/EOSNetworkFoundation/215256",
+				"content": "<ul><li>Last week the #EOS Block Producer's met for the Top 30 Monthly Block Producer Call 💻</li><li>Discussion included: 🛠EOS EVM 🤝EOS Network Ventures 📆 Upcoming Events.</li><li>Read the recap: <a href=\"https://eosnetwork.com/blog/may-eos-bp-meeting-recap\">https://eosnetwork.com/blog/may-eos-bp-meeting-recap</a></li></ul>"
+			},
+			{
+				"heading": "EOS_Node_Operator Roundtable Bi-monthly summary - 15 May 2023",
+				"link": "https://t.me/EOSNetworkFoundation/215430",
+				"content": "<ul><li>The EOS Node Operator Roundtable meets on Wednesdays. ⏫ Get the Updates!</li><li>👉Discussing 5.0 Grants & Leap 4.0 Feedback</li><li>✅EOS EVM: First Look & Feedback</li><li>⏩Join the discussion! Read this Summary: <a href=\"https://help.eossupport.io/en/articles/7900581-bi-monthly-node-operator-roundtable-summary-may-2023-1\">https://help.eossupport.io/en/articles/7900581-bi-monthly-node-operator-roundtable-summary-may-2023-1</a></li></ul>"
+			},
+			{
+				"heading": "EOS_Node_Operator Roundtable - 17 May 2023",
+				"link": "https://t.me/EOSNetworkFoundation/215431",
+				"content": "<ul><li>Explore revolutionary advancements in blockchain technology, discussing automated peer selection, dynamic transaction handling, immediate analytics, and effective node synchronization for improved system efficiency and transparency.</li><li>You Tube -1hr03m- : <a href=\"https://youtu.be/NAWk6juG6_Y\">https://youtu.be/NAWk6juG6_Y</a></li></ul>"
+			},
+			{
+				"heading": "EOS_Infation rate",
+				"link": "https://t.me/EOSNetworkFoundation/215375",
+				"content": "<ul><li>The EOS token has a supply of around 1 billion.</li><li>When EOS started, the inflation was 5%, with 4% funneling into a savings account and 1% for Block producer rewards.</li><li><a href=\"https://help.eossupport.io/en/articles/5698356-what-is-the-inflation-rate-on-eos\">https://help.eossupport.io/en/articles/5698356-what-is-the-inflation-rate-on-eos</a></li></ul>"
+			},
+			{
+				"heading": "DAOs_on_EOS - Twitter Spaces 16 May 2023",
+				"link": "https://t.me/EOSNetworkFoundation/215120",
+				"content": "<ul><li>ENF, Hypha, digihub, Regenerate X & .gems discuss the growing DAO landscape on EOS & the broader Web3 space 🌐</li><li>Twitter Spaces -1hr45m- : <a href=\"https://twitter.com/i/spaces/1OdJrzvgalqJX\">https://twitter.com/i/spaces/1OdJrzvgalqJX</a></li></ul>"
+			},
+			{
+				"heading": "Hypha_on_EOS - 15 May 2023",
+				"link": "https://t.me/EOSNetworkFoundation/215203",
+				"content": "<ul><li>The ENF is excited to share some major news from Hypha DAO, an EOS ecosystem member and partner🤝.</li><li>Just recently, Hypha launched a waitlist for their highly-anticipated Beta Program, which includes some exciting new features.</li><li>More Details: <a href=\"https://eosnetwork.com/blog/hypha-dao-new-beta-program-features\">https://eosnetwork.com/blog/hypha-dao-new-beta-program-features</a></li></ul>"
+			},
+			{
+				"heading": "Everything_EOS Monthly Report - April 2023",
+				"link": "https://discord.com/channels/892385699616153600/901411499346653234/1105903053875445772",
+				"content": "<ul><li>EOS EVM: Audit, Open Source & Webinar, April Events Highlights, Chintai & Defibox are #PoweredByEOS, Leap 4.0 Release, Greymass Progress Update, Pomelo Season 5 Recap, Hypha Launches Beta-Program Waitlist + More!</li><li>Read the Report: <a href=\"https://discord.com/channels/892385699616153600/901411499346653234/1105903053875445772\">https://discord.com/channels/892385699616153600/901411499346653234/1105903053875445772</a></li></ul>"
+			},
+			{
+				"heading": "EOS_Respect 9th election",
+				"link": "https://t.me/EOSNetworkFoundation/215358",
+				"content": "<ul><li>The 9th EOS Respect election took place! Congratulations to our new Chief Delegates!🎉</li><li>View the most recent EOS Respect Stats: <a href=\"https://help.eossupport.io/en/articles/6548938-eos-respect-monthly-updated-numbers-and-statistics\">https://help.eossupport.io/en/articles/6548938-eos-respect-monthly-updated-numbers-and-statistics</a></li></ul>"
+			},
+			{
+				"heading": "Pomelo Season 6",
+				"link": "https://t.me/EOSNetworkFoundation/215272",
+				"content": "<ul><li>We are excited to announce that #ENF will be funding not just one but three matching pools in Pomelo Season 6🥳</li><li>A total of $158,000 has been contributed💰</li><li>Read more about the individual pools - <a href=\"https://twitter.com/EOSnFoundation/status/1658536593030799368\">https://twitter.com/EOSnFoundation/status/1658536593030799368</a></li></ul>"
+			},
+			{
+				"heading": "Wordproof on Shopify",
+				"link": "https://t.me/EOSNetworkFoundation/215200",
+				"content": "<ul><li>WordProof brings EOS blockchain to 4.3 Million Shopify users - <a href=\"https://wordproof.com/wordproof-brings-eos-blockchain-to-4-3-million-shopify-users\">https://wordproof.com/wordproof-brings-eos-blockchain-to-4-3-million-shopify-users</a></li><li>Learn more about WordProof - <a href=\"https://youtu.be/LbVuEClCAqA\">https://youtu.be/LbVuEClCAqA</a> / <a href=\"https://eosnetwork.com/blog/wordproof-powered-by-eos/\">https://eosnetwork.com/blog/wordproof-powered-by-eos/</a> / <a href=\"https://wordproof.com\">https://wordproof.com</a></li></ul>"
+			},
+			{
+				"heading": "EOS_Fireside_Chat - 17 May 2023",
+				"link": "",
+				"content": "<ul><li>Every Wednesday 19:00 UTC :</li><li>On the agenda:</li><li>🛍 Wordproof Integrates Shopify: Enhancing e-commerce with EOS technology</li><li>🌐 EOS EVM: Adoption, CMC, Webinar - Expanding the reach of EOS in the crypto market</li><li>📈 BBS.MARKET on EOS by Eyal Hertzog</li><li>🚀 EOS Quest's Free EOS Account Creation</li><li>🇲🇽 EOS Mexico at CriptoMexico 2023</li><li>🌿 Hypha DAO Spaces Recap & Upcoming Features</li><li>🏎 Upland Go Carts Go Live</li><li>You Tube -2hr25m- : <a href=\"https://www.youtube.com/live/OjxZL7luHgg?feature=share\">https://www.youtube.com/live/OjxZL7luHgg?feature=share</a></li></ul>"
+			},
+			{
+				"heading": "Giveaway_Show - 18 May 2023",
+				"link": "https://t.me/EOSNetworkFoundation/215373",
+				"content": "<ul><li>Thursdays 17:00 UTC :</li><li>✅ EOS Respect 9th Elections</li><li>✅ Pomelo Grants Season 6!</li><li>💰 50 EOS + NFTs</li><li>💬 AMA - You Tube -1hr16m- : <a href=\"https://youtube.com/live/HgQDZkJW8BQ\">https://youtube.com/live/HgQDZkJW8BQ</a></li></ul>"
+			},
+			{
+				"heading": "Hot_Sauce - 19 May 2023",
+				"link": "https://t.me/EOSNetworkFoundation/215420",
+				"content": "<ul><li>Fridays 16:00 UTC :</li><li>🌶Hot Sauce 200🌶 -</li><li>✅Wordproof Integrates #Shopify</li><li>✅EOS EVM: Adoption</li><li>✅Block Producer Monthly Call</li><li>✅EOS Mexico at CriptoMéxico 2023</li><li>✅Pomelo Goes Multi-Pool</li><li>✅Free EOS Account with EOS Quest</li><li>✅Upland Go Karts ▶️ Go Live</li><li>You Tube -21m- : 📺 <a href=\"https://loom.ly/cqbtTjQ\">https://loom.ly/cqbtTjQ</a> 📺</li></ul>"
+			}
+		]
+	}
+]
