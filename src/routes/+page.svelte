@@ -16,7 +16,7 @@
         href = 'https://mob.eos.recaps.site/';
         console.log('Mobile device detected. Link set to website optimized for mobile');
       } else {
-        href = 'http://localhost:5173/latest';
+        href = 'http://eos.recaps.site/latest';
         console.log('Desktop device detected. Link set to website optimized for desktop');
       }
     });
